@@ -1,0 +1,15 @@
+/Users/nikitacsk/Projects/Singin-SIngup/Singin-SIngup/bin/Debug/net6.0/Singin-SIngup
+/Users/nikitacsk/Projects/Singin-SIngup/Singin-SIngup/bin/Debug/net6.0/Singin-SIngup.deps.json
+/Users/nikitacsk/Projects/Singin-SIngup/Singin-SIngup/bin/Debug/net6.0/Singin-SIngup.runtimeconfig.json
+/Users/nikitacsk/Projects/Singin-SIngup/Singin-SIngup/bin/Debug/net6.0/Singin-SIngup.dll
+/Users/nikitacsk/Projects/Singin-SIngup/Singin-SIngup/bin/Debug/net6.0/Singin-SIngup.pdb
+/Users/nikitacsk/Projects/Singin-SIngup/Singin-SIngup/obj/Debug/net6.0/Singin-SIngup.csproj.AssemblyReference.cache
+/Users/nikitacsk/Projects/Singin-SIngup/Singin-SIngup/obj/Debug/net6.0/Singin-SIngup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitacsk/Projects/Singin-SIngup/Singin-SIngup/obj/Debug/net6.0/Singin-SIngup.AssemblyInfoInputs.cache
+/Users/nikitacsk/Projects/Singin-SIngup/Singin-SIngup/obj/Debug/net6.0/Singin-SIngup.AssemblyInfo.cs
+/Users/nikitacsk/Projects/Singin-SIngup/Singin-SIngup/obj/Debug/net6.0/Singin-SIngup.csproj.CoreCompileInputs.cache
+/Users/nikitacsk/Projects/Singin-SIngup/Singin-SIngup/obj/Debug/net6.0/Singin-SIngup.dll
+/Users/nikitacsk/Projects/Singin-SIngup/Singin-SIngup/obj/Debug/net6.0/refint/Singin-SIngup.dll
+/Users/nikitacsk/Projects/Singin-SIngup/Singin-SIngup/obj/Debug/net6.0/Singin-SIngup.pdb
+/Users/nikitacsk/Projects/Singin-SIngup/Singin-SIngup/obj/Debug/net6.0/Singin-SIngup.genruntimeconfig.cache
+/Users/nikitacsk/Projects/Singin-SIngup/Singin-SIngup/obj/Debug/net6.0/ref/Singin-SIngup.dll
